@@ -1,0 +1,11 @@
+kafka-stock-price-analysis/
+    ├── Makefile
+    ├── docker-compose.yml
+    ├── Dockerfile.producer
+    ├── Dockerfile.consumer
+    ├── producer.py
+    ├── consumer.py
+    └── streamlit_app.py
+
+
+#docker-compose up --build -d
